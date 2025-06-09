@@ -15,14 +15,7 @@ A **minimal and responsive e-commerce UI** that allows users to browse products,
 
 ---
 
-## 📂 Project Structure
 
-├── index.html # Main HTML page
-├── styles.css # Styling for layout and components
-└── script.js # JavaScript for cart logic and interactions
-
-
----
 
 ## 📸 UI Preview
 ![Screenshot 2025-06-10 000436](https://github.com/user-attachments/assets/24ef5d91-5c2e-4c91-91d5-ab49ab2ac340)
